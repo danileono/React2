@@ -5,7 +5,7 @@
     text-align: center;
     background: linear-gradient(178deg, #faffa2, #9df679); 
     height: 100vh; 
-} 
+}  
 
 .alert{
     background-color: rgba(0, 0, 0, 0.8);
@@ -33,7 +33,7 @@
     width: 80%;
     max-width: 600px;
     border-radius: 4px;
-    min-height: 300px;
+    min-height: 300px; 
     display: flex;
     flex-direction: column;
     align-items: center;
